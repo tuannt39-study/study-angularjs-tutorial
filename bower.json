@@ -1,0 +1,23 @@
+{
+  "name": "tutorial-angularjs",
+  "description": "A tutorial application for AngularJS",
+  "main": "index.js",
+  "authors": [
+    "tuannt39"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/tuannt39-study/tutorial-angularjs",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.7.0",
+    "angular-mocks": "^1.7.0",
+    "bootstrap": "^4.1.1"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "tutorial-angularjs",
+  "version": "0.0.1",
+  "description": "A tutorial application for AngularJS",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server ./app -a localhost -p 8000 -c-1",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tuannt39-study/tutorial-angularjs.git"
+  },
+  "author": "tuannt39",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tuannt39-study/tutorial-angularjs/issues"
+  },
+  "homepage": "https://github.com/tuannt39-study/tutorial-angularjs#readme",
+  "devDependencies": {
+    "bower": "^1.8.4",
+    "http-server": "^0.11.1",
+    "jasmine-core": "^3.1.0",
+    "protractor": "^5.3.2"
+  }
+}
