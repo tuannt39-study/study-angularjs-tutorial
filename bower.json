@@ -16,8 +16,8 @@
     "tests"
   ],
   "dependencies": {
-    "angular": "^1.7.0",
+    "angular": "^1.5.11",
     "angular-mocks": "^1.7.0",
-    "bootstrap": "^4.1.1"
+    "bootstrap": "^3.3.7"
   }
 }
